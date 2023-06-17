@@ -14,3 +14,6 @@ th{
 	background:black;
 	color:white;
 }
+.table:hover{
+	background-color:coral
+}
